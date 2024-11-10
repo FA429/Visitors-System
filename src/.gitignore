@@ -1,0 +1,9 @@
+appsettings.json
+appsettings.*.json
+bin/
+obj/
+*.db
+*.pfx
+*.user
+*.vs
+.vscode/
